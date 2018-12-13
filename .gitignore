@@ -1,0 +1,8 @@
+/target/
+.idea
+.env
+.aws_credentials
+build
+.bin
+artifacts
+**/.project
